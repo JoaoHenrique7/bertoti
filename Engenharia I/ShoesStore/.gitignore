@@ -1,0 +1,5 @@
+## Remover do gitignore
+
+#out/
+#.idea/
+#ShoesStore.iml
