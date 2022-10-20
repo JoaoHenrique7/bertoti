@@ -9,3 +9,6 @@ R1: Existe uma grande diferença em ser um Engenheiro de Software e um Programad
 19/08/2022
 
 R2: Pelo fato do projeto ser um desktop, acaba perdendo a vantagem de ser multiplataforma, como rodar em outros dispostivos, podendo ser tambem web e mobile. Porém, um software nativo desktop permite maior flexibilidade de aplicação para o cliente.
+
+
+20/10/2022
