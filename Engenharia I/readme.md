@@ -12,3 +12,7 @@ R2: Pelo fato do projeto ser um desktop, acaba perdendo a vantagem de ser multip
 
 
 20/10/2022
+
+<p> UML Class </p>
+<br>
+<img src="/Engenharia%20I/images/UML%20class.png" width="100%" />
